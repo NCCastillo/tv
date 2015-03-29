@@ -31,8 +31,8 @@ $green:          green;
 
 // Components
 // Notes: Only palette color references below.
-// All other scss files should only reference 
-// the component color variables below (not css colors 
+// All other scss files should only reference
+// the component color variables below (not css colors
 // directly or the color variables above)
 
 $warning:                     $orange;
@@ -50,6 +50,7 @@ $primary-font-color:          $black;
 $secondary-font-color:        $grey;
 
 $toolbar:                     $white;
+$toolbar-input-action-icon:   $grey;
 $toolbar-bg:                  $darker-grey;
 $toolbar-accent:              $darkest-grey;
 $toolbar-highlight:           $light-green;

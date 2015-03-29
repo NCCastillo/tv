@@ -9,6 +9,7 @@ var _ = require('lodash');
 
 require('bootstrap/js/modal');
 require('bootstrap/js/tooltip');
+require('bootstrap/js/popover');
 
 require('./utils/handlebarsHelpers');
 

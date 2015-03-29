@@ -9,6 +9,24 @@
         font-size: 1.3rem;
     }
 
+    .search-clear-text {
+        margin-left: -38px;
+        color: $toolbar-input-action-icon;
+        cursor: pointer;
+        &:hover {
+            color: $toolbar;
+        }
+    }
+
+    .search-popover {
+        // margin-left: -38px;
+        color: $toolbar-input-action-icon;
+        cursor: pointer;
+        &:hover {
+            color: $toolbar;
+        }
+    }
+
     .settings {
         float: right;
         margin: 7px;
